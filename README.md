@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 👀 I'm Chamod , 🎓 Business Technology Undergraduate<br>
 🚀 Aspiring developer with a strong passion for programming<br>
@@ -10,13 +10,16 @@
 📁 GitHub is where I showcase my projects and contribute to open-source software<br>
 🤝 Believe in the power of collaboration and the open-source community<br>
 📬 Always open to feedback, suggestions, and collaborations
+📫 How to reach me Chamzz.dev@gmail.com
 
-
-## Connect with Me
+# Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/chamod-sugathadasa)
 [![Twitter](https://img.shields.io/twitter/follow/Chamzz99?style=social&logo=twitter)](https://twitter.com/chamz99)
 
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=chamzz99&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chamzz99&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!--
 **chamzz99/chamzz99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
