@@ -2,7 +2,7 @@
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/chamod-sugathadasa)
-[![Twitter](https://img.shields.io/twitter/follow/your-twitter-handle?style=social&logo=twitter)](https://twitter.com/chamz99)
+[![Twitter](https://img.shields.io/twitter/follow/Chamzz99?style=social&logo=twitter)](https://twitter.com/chamz99)
 
 <!--
 **chamzz99/chamzz99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
