@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-👀 I'm Chamod , 🎓 Business Technology Undergraduate
-🚀 Aspiring developer with a strong passion for programming
-📚 Currently on a learning journey to enhance my skills
-💻 Fluent in Python, HTML, and CSS
-🌱 Actively learning Java, JavaScript, React.js, and Flutter
-🏗️ Building a solid foundation in web development and backend programming
-🔍 Excited to explore new technologies and broaden my expertise
-📁 GitHub is where I showcase my projects and contribute to open-source software
-🤝 Believe in the power of collaboration and the open-source community
+👀 I'm Chamod , 🎓 Business Technology Undergraduate<br>
+🚀 Aspiring developer with a strong passion for programming<br>
+📚 Currently on a learning journey to enhance my skills<br>
+💻 Fluent in Python, HTML, and CSS<br>
+🌱 Actively learning Java, JavaScript, React.js, and Flutter<br>
+🏗️ Building a solid foundation in web development and backend programming<br>
+🔍 Excited to explore new technologies and broaden my expertise<br>
+📁 GitHub is where I showcase my projects and contribute to open-source software<br>
+🤝 Believe in the power of collaboration and the open-source community<br>
 📬 Always open to feedback, suggestions, and collaborations
 
 
