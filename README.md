@@ -1,4 +1,17 @@
 ### Hi there 👋
+
+👀 I'm Chamod , 🎓 Business Technology Undergraduate
+🚀 Aspiring developer with a strong passion for programming
+📚 Currently on a learning journey to enhance my skills
+💻 Fluent in Python, HTML, and CSS
+🌱 Actively learning Java, JavaScript, React.js, and Flutter
+🏗️ Building a solid foundation in web development and backend programming
+🔍 Excited to explore new technologies and broaden my expertise
+📁 GitHub is where I showcase my projects and contribute to open-source software
+🤝 Believe in the power of collaboration and the open-source community
+📬 Always open to feedback, suggestions, and collaborations
+
+
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/chamod-sugathadasa)
