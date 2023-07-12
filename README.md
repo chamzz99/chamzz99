@@ -9,7 +9,7 @@
 🔍 Excited to explore new technologies and broaden my expertise<br>
 📁 GitHub is where I showcase my projects and contribute to open-source software<br>
 🤝 Believe in the power of collaboration and the open-source community<br>
-📬 Always open to feedback, suggestions, and collaborations
+📬 Always open to feedback, suggestions, and collaborations<br>
 📫 How to reach me Chamzz.dev@gmail.com
 
 # Connect with Me
