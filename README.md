@@ -10,7 +10,7 @@
 📁 GitHub is where I showcase my projects and contribute to open-source software<br>
 🤝 Believe in the power of collaboration and the open-source community<br>
 📬 Always open to feedback, suggestions, and collaborations<br>
-📫 How to reach me x@chamzz.me
+📫 How to reach me x@chamo.me
 
 # Connect with Me
 
