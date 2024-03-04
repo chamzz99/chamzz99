@@ -20,6 +20,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chamzz99&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chamzz99&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+# Spotify 🎧:
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=337bd2ajyo5l0fwpuyz2eds6s&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=337bd2ajyo5l0fwpuyz2eds6s&redirect=true)
 <!--
 **chamzz99/chamzz99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
