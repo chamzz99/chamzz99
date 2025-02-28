@@ -15,7 +15,7 @@
 # Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/chamod-sugathadasa)
-[![Twitter](https://img.shields.io/twitter/follow/Chamzz99?style=social&logo=twitter)](https://twitter.com/chamz99)
+[![Twitter](https://img.shields.io/twitter/follow/Chamzz99?style=social&logo=twitter)](https://twitter.com/chamzz99)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chamzz99&theme=dark&hide_border=false)<br/>
