@@ -1,6 +1,6 @@
 # Hi there 👋
 
-👀 I'm Chamod , 🎓 Business Technology Undergraduate<br>
+👀 I'm Chamod , 🎓 Business Technology Graduate<br>
 🚀 Aspiring developer with a strong passion for programming<br>
 📚 Currently on a learning journey to enhance my skills<br>
 💻 Fluent in Python, HTML, and CSS<br>
